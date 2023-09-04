@@ -1,4 +1,4 @@
-Проект MVP для понимания работы в связке `FastAPI`, `SQLAlchemy`, `Alembic`,  
+Проект MVP - работа в связке `FastAPI`, `SQLAlchemy`, `Alembic`,  
 `Pydantic`, `PostgreSQL` и `Docker`.
 
 Для работы необходимо:  
